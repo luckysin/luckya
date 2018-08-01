@@ -1,0 +1,2 @@
+# luckya
+my first repository
